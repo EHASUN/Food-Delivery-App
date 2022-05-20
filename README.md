@@ -7,10 +7,6 @@
 - [Usage](#usage-for-development)
 - [Screenshots](#screenshots)
 
-
-## Introduction
-Arkafoodel is an online food ordering website, which collaborates with various restaurants that allow users to order food from a variety of restaurant choices. Arkafoodel built with React Js and integrated with Food Delivery API as a Backend.
-
 ## Features
 * [Food Menu](#menu)
 * [Detail Food](#detail_food)
@@ -29,7 +25,7 @@ Arkafoodel is an online food ordering website, which collaborates with various r
 
 ## Usage for development
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/Ocraniawan/ArkafoodelWeb.git`
+2. Type `git clone https://github.com/EHASUN/Food-Delivery-App.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Type `npm start` for run this app.
 
